@@ -1,0 +1,6 @@
+*__pycache__
+*.ini
+*.ipynb
+*.docx
+*input_file
+*output_file
